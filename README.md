@@ -1,7 +1,7 @@
 # EPSRI
 Tools and resources used alongside the Engineering Process Safety Research Instrument (EPSRI) and Contents Under Pressure digital game.
 
-## Project Collaborators
+# Project Collaborators
       Daniel Anastasio, PhD       Rose-Hulman Institute of Technology, Terre Haute, IN, USA     anastasi@rose-hulman.edu
       Cheryl Bodnar, PhD          Rowan University, Glassboro, NJ, USA                          daniel.burkey@uconn.edu
       Daniel Burkey, PhD          University of Connecticut, Storrs, CT, USA                    bodnar@rowan.edu
@@ -10,8 +10,16 @@ Tools and resources used alongside the Engineering Process Safety Research Instr
       Brittany Butler             Rowan University, Glassboro, NJ, USA                          butlerb0@students.rowan.edu
       Landon Bassett              University of Connecticut, Storrs, CT, USA                    landon.bassett@uconn.edu
 
-## Project Description
+# Project Description
 
-## Theoretical Framework
+DESCRIBE PROJECT FRAMING AROUND BLINDSPOTS
 
-## Major Publications
+# The Engineering Process Safety Research Instrument (EPSRI)
+
+
+
+# Contents Under Pressure Digital Game
+
+# Major Publications
+
+INCLUDE REFERENCES HERE
