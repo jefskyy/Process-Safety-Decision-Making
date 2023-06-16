@@ -35,7 +35,7 @@ Data filtering consists of three filters: missing data, repeating data, and the 
 <details>
   <summary>Rate-rank Score (manual)</summary>
 
-      Next to the students ranks, make a table that resembles the one shown below (if its not there already in the provided template).
+Next to the students ranks, make a table that resembles the one shown below (if its not there already in the provided template).
 <img width="684" alt="Picture1" src="https://github.com/jefskyy/Process-Safety-Decision-Making/assets/44849178/d2dff9d7-dbf5-457f-91fb-4ff842bb570a">
 
 To begin the rate-rank score, look at the items the student has ranked. Starting with the first ranked item, find the rating for the item. If there are no items rated higher than that item, put a 0 under the “most” column. If there is an item or items that are rated higher, it is an “inconsistency.” Put the number of inconsistencies in the “most” column. Continue this for the remaining items for all of the students. Once this is completed, move to the “rate-rank” score section of the table. Under the “most” column, multiply the number of inconsistencies in the “most” column from the first section. Second is multiplied by three, third is multiplied by two and fourth is multiplied by one. Under the “score” column, find the total of the values for the rate-rank score. A sample calculation is given below. 
@@ -52,10 +52,10 @@ Where N is the number of items for that dilemma and n is the number of dilemmas.
 
 <details>
   <summary>Tips for manually calculating the rate-rank socre</summary>
-* Give yourself a lot of time to find the rate-rank score when calculating manually. 
-* Make an initial run through the dilemma where you only record the students who would have a 0 rate-rank score. As soon as you come across a student where you have 0 count of inconsistencies, skip it and come back to it. This is a lot easier on your head. 
-* If a student is missing a rate for an item, it counts as an inconsistency. 
-* If a student ranks an item but there is no rate for it, all of the items (except for the items ranked higher than that one) are considered inconsistencies. For example, in the previous example, it the student ranked item 3 as fourth, but did not rate item three, there would be nine inconsistencies. 
+      * Give yourself a lot of time to find the rate-rank score when calculating manually. 
+      * Make an initial run through the dilemma where you only record the students who would have a 0 rate-rank score. As soon as you come across a student where you have 0 count of inconsistencies, skip it and come back to it. This is a lot easier on your head. 
+      * If a student is missing a rate for an item, it counts as an inconsistency. 
+      * If a student ranks an item but there is no rate for it, all of the items (except for the items ranked higher than that one) are considered inconsistencies. For example, in the previous example, it the student ranked item 3 as fourth, but did not rate item three, there would be nine inconsistencies. 
 * If a student ranks a consideration which is not in the Dilema, all of the items (except for the items ranked higher than that one) are considered inconsistencies.
 * If a student ranks a consideration twice, both rank occurrences are considered inconsistencies. 
 
