@@ -23,10 +23,28 @@ This site documents a tool dedicated to evaluating the moral reaosning of proces
  
 The EPSRI can assess moral reasoning of respondents based on how they respond to to five hypothetical ethical dilemmas. Specifically, respondents must rate and rank a series of considerations towards a decision they make in the dilemma. The EPSRI has undergone instrument validation among senior undergraduate chemical engineering students from three US institutions. This means we have tested the EPSRI for its validity (that it reports moral reasoning) and reliability (that it reports this consistently). The exact process the EPSRI followed is documented in our publications [1, 2].
 
- The EPSRI has been prepared as a [Qualtrics survey]([EPSRI Distributable](https://github.com/jefskyy/Process-Safety-Decision-Making/tree/main/EPSRI%20Distributable)) to be applied in classrooms or research studies.
-
+ The EPSRI has been prepared as a Qualtrics survey and Microsoft Word document([EPSRI Distributable](https://github.com/jefskyy/Process-Safety-Decision-Making/tree/main/EPSRI%20Distributable)) to be applied in classrooms or research studies.
 
 # Obtaining Scores from the EPSRI
+
+There are four results we recommend pulling out of the EPSRI: P score, N2 Score, Predominant Reasoning level, and CDIT score. However, before calculating these scores, it is important to clean the data for unreliable results. The following sub-sections describe these steps. Also, an example spreadsheet (Microsoft Excel) has been prepared to walk us through each of the steps in data filtering and in obtaining scores, here.
+
+## Data Filtering
+Data filtering consists of three filters: missing data, repeating data, and the rate-rank score. Repeating and missing data are easily obtained in the provided spreadsheet. However, the rate-rank score can be solved manually, and instructions on how to do so are provided below. Alternatively, and the preferred method, is to use the provided  MATLAB script. If you do not have access to MATLAB, other languages may be used, but have not been developed.
+
+<details>
+  <summary>Rate-rank Score (manual)</summary>
+
+
+</details>
+
+<details>
+  <summary>Rate-rank Score (automated)</summary>
+
+
+</details>
+
+
 
 # Interpreting Scores from the EPSRI
 
