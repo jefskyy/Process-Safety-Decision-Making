@@ -88,6 +88,11 @@ Video instructions: https://youtu.be/VMCIeS56H8E
 
 </details>
 
+## P-score
+
+## N2Score
+
+## CDIT and Predominant Reasoning
 
 
 # :blue_book: Interpreting Scores from the EPSRI
