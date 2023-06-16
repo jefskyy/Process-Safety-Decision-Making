@@ -11,7 +11,7 @@
 
 The chemical process industry seeks to mitigate safety incidents through protective barriers: design, hazard analyses, etc. This project supplements these efforts by improving process safety decision making pedagogy.
 
-Humans are notorious for being poor predictors of their behaviors [CITE], including when we predict that we will make safe decisions. We are often poor predictors of our behaviors because of "behavioral forecasting" and "ethical fading". 
+Humans are notorious for being poor predictors of their behaviors [CITE ⭐], including when we predict that we will make safe decisions. We are often poor predictors of our behaviors because of "behavioral forecasting" and "ethical fading". 
 
 Behavioral forecasting is when you know you are being tested, so you seek out to make the "best" ethical decision possible. Ethical fading is when you are bombarded with stimuli and tasks that you lose track of the ethical importance of decisions that you're making.
 
@@ -90,12 +90,28 @@ Video instructions: https://youtu.be/VMCIeS56H8E
 
 ## P-score
 
+The P-score determines how post-conventional a response is based on the amount of post-conventional considerations were ranked and how they were ranked. If a reponse ranks a post-conventional item as first, it receives four points. If it is ranked second, it receives three points. A third ranked post-conventional item will receive two points, and a fourth ranked post-conventional item will receive one point. A p-score for a dilemma can range from 0-10 points. Across the instrument, we scale the P-score up to 100 by mutiplying by 2 (sum/50*100). The closer to 100 the score is, the closer the reponse aligned with post-conventional reaosning.
+
 ## N2Score
+
+The N2 score is an improvement to the P-score as it considers post-conventional reasoning in the abscence of pre-conventional reaosning. The N2 score is based on the average ratings of the pre-conventional and post-conventional items, and the standard deviation of these ratings too.
+
+Keep in mind that both p-score and N2 score can be found on a dilemma basis. The p-score on a dilemma level is found in the process of obtaining the overall p-score. Divide the p-score calculated for the dilemma by a base score of 10, taking into account any missing ranks. 
+
+To find the N2 score on a dilemma level, follow the same procedure outlined above, but only include the ratings of the post-conventional and pre-conventional items for that dilemma. Once the deviation is calculated, add it to the p-score that was calculated for that dilemma.
 
 ## CDIT and Predominant Reasoning
 
+In order to classify a student into one of the six types, the CDIT score and predominant reasoning must be found. Predominant reasoning is calculated the same way as the p-score, but is done for conventional and pre-conventional reasoning as well.
+
+An example calculation for the CDIT score is shown in the template and in our publication [CITE ⭐:]
 
 # :blue_book: Interpreting Scores from the EPSRI
+
+
+
+
+
 
 # :ledger: Applying the EPSRI in your classroom
 
@@ -110,6 +126,12 @@ Video instructions: https://youtu.be/VMCIeS56H8E
       [5] J. Stransky, C. Bodnar, L. Bassett, M. Cooper, D. Anastasio, and D. Burkey, “Engineering process safety research instrument: Assessing students’ moral reasoning in process safety contexts,” Educ. Chem. Eng., vol. 42, no. November 2022, pp. 44–53, 2023, doi: 10.1016/j.ece.2022.11.004.
       [6] J. Stransky, L. Bassett, C. Bodnar, D. D. Anastasio, D. D. Burkey, and M. Cooper, “Understanding Student Motivation to Engage in the Contents Under Pressure Digital Game,” in ICL2021 – 24th International Conference on Interactive Collaborative Learning, 2021, no. September, pp. 1716–1727.
       [7] J. Stransky et al., “Impact of Immersive Training on Senior Chemical Engineering Students’ Prioritization of Process Safety Decision Criteria,” in 2021 ASEE Virtual Annual Conference Content Access, 2021.
-      [8] J. Stransky, C. Bodnar, D. D. Burkey, D. D. Anastasio, and M. Cooper, “Exploring Engineering Students’ Decision Making Priorities in a Digital Plant Environment,” in ASEE Annual Conference & Exposition Proceedings, 2022.
+
 
 # :bookmark_tabs: External References
+
+# Connect with us
+
+This site is maintained by Dr Jeffrey Stransky. Questions regarding the EPSRI or related publications should be directed to him.
+
+
