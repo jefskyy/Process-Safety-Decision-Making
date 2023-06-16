@@ -23,7 +23,7 @@ This site documents a tool dedicated to evaluating the moral reaosning of proces
  
 The EPSRI can assess moral reasoning of respondents based on how they respond to to five hypothetical ethical dilemmas. Specifically, respondents must rate and rank a series of considerations towards a decision they make in the dilemma. The EPSRI has undergone instrument validation among senior undergraduate chemical engineering students from three US institutions. This means we have tested the EPSRI for its validity (that it reports moral reasoning) and reliability (that it reports this consistently). The exact process the EPSRI followed is documented in our publications [1, 2].
 
- The EPSRI has been prepared as a [Qualtrics survey](EPSRI Distributable) to be applied in classrooms or research studies.
+ The EPSRI has been prepared as a [Qualtrics survey]([EPSRI Distributable](https://github.com/jefskyy/Process-Safety-Decision-Making/tree/main/EPSRI%20Distributable)) to be applied in classrooms or research studies.
 
 
 # Obtaining Scores from the EPSRI
