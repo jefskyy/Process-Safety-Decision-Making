@@ -41,6 +41,8 @@ Data filtering consists of three filters: missing data, repeating data, and the 
 <details>
   <summary>Rate-rank Score (automated)</summary>
 
+Video instructions: https://youtu.be/VMCIeS56H8E
+MATLAB Script
 
 </details>
 
