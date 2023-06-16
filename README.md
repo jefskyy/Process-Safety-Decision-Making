@@ -34,9 +34,9 @@ Data filtering consists of three filters: missing data, repeating data, and the 
 
 <details>
   <summary>Rate-rank Score (manual)</summary>
-Next to the students ranks, make a table that resembles the one shown below (if its not there already in the provided template).
-![Picture1](https://github.com/jefskyy/Process-Safety-Decision-Making/assets/44849178/f4cb78f3-7dc4-433a-90d1-6766296206f8)
 
+      Next to the students ranks, make a table that resembles the one shown below (if its not there already in the provided template).
+<img width="684" alt="Picture1" src="https://github.com/jefskyy/Process-Safety-Decision-Making/assets/44849178/d2dff9d7-dbf5-457f-91fb-4ff842bb570a">
 
 To begin the rate-rank score, look at the items the student has ranked. Starting with the first ranked item, find the rating for the item. If there are no items rated higher than that item, put a 0 under the “most” column. If there is an item or items that are rated higher, it is an “inconsistency.” Put the number of inconsistencies in the “most” column. Continue this for the remaining items for all of the students. Once this is completed, move to the “rate-rank” score section of the table. Under the “most” column, multiply the number of inconsistencies in the “most” column from the first section. Second is multiplied by three, third is multiplied by two and fourth is multiplied by one. Under the “score” column, find the total of the values for the rate-rank score. A sample calculation is given below. 
 <img width="731" alt="Picture 2" src="https://github.com/jefskyy/Process-Safety-Decision-Making/assets/44849178/1ca62db7-1370-4c48-ab71-68aeaee04bd1">
@@ -60,6 +60,11 @@ Where N is the number of items for that dilemma and n is the number of dilemmas.
 * If a student ranks a consideration twice, both rank occurrences are considered inconsistencies. 
 
 </details>
+
+
+
+
+
 
 </details>
 
