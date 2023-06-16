@@ -36,15 +36,18 @@ Data filtering consists of three filters: missing data, repeating data, and the 
   <summary>Rate-rank Score (manual)</summary>
 
 Next to the students ranks, make a table that resembles the one shown below (if its not there already in the provided template).
+
 <img width="684" alt="Picture1" src="https://github.com/jefskyy/Process-Safety-Decision-Making/assets/44849178/d2dff9d7-dbf5-457f-91fb-4ff842bb570a">
 
 To begin the rate-rank score, look at the items the student has ranked. Starting with the first ranked item, find the rating for the item. If there are no items rated higher than that item, put a 0 under the “most” column. If there is an item or items that are rated higher, it is an “inconsistency.” Put the number of inconsistencies in the “most” column. Continue this for the remaining items for all of the students. Once this is completed, move to the “rate-rank” score section of the table. Under the “most” column, multiply the number of inconsistencies in the “most” column from the first section. Second is multiplied by three, third is multiplied by two and fourth is multiplied by one. Under the “score” column, find the total of the values for the rate-rank score. A sample calculation is given below. 
 <img width="731" alt="Picture 2" src="https://github.com/jefskyy/Process-Safety-Decision-Making/assets/44849178/1ca62db7-1370-4c48-ab71-68aeaee04bd1">
 
 The first ranked item was item five, which was rated four. No item was rated higher than that item, so there are no inconsistencies. Item 6 was rated 3. There are four items rated higher than item 6 (3, 5, 9 and 11), however, item 5 was ranked higher than item six so it does not count as an inconsistency. There are only three inconsistencies for the second ranked item. Item 8 was was rated 1. There are ten items rated higher than item 8, however, items 5 and 6 were ranked higher than item 8 so they do not count as inconsistencies. There are 8 inconsistencies for the third ranked item. Item 3 was rated 4. There are no items rated higher than item 3, so there are no inconsistencies at this level. The above table should look like the one below.
+
 <img width="714" alt="Picture3" src="https://github.com/jefskyy/Process-Safety-Decision-Making/assets/44849178/c04b8e60-fe82-49bf-b9aa-c13b34a9f823">
 
 The rate-rank score for this student on this dilemma is 25. Complete this for all the students for every dilemma. Once this is done, go back to the master table that summarizes all of the tests. Add all of the scores for each students to find their rate-rank score. In order to find the cut-off value, you have to determine the highest possible rate-rank score. This can be found using the below equation.
+
 <img width="682" alt="Picture4" src="https://github.com/jefskyy/Process-Safety-Decision-Making/assets/44849178/01a1565f-ccd1-4768-96ed-b10c30c943ab">
 
 Where N is the number of items for that dilemma and n is the number of dilemmas. The cut-off score is one third of the highest possible rate rank score. 
@@ -52,12 +55,17 @@ Where N is the number of items for that dilemma and n is the number of dilemmas.
 
 <details>
   <summary>Tips for manually calculating the rate-rank socre</summary>
--Give yourself a lot of time to find the rate-rank score when calculating manually. 
+      -Give yourself a lot of time to find the rate-rank score when calculating manually. 
+
       -Make an initial run through the dilemma where you only record the students who would have a 0 rate-rank score. As soon as you come across a student where you have 0 count of inconsistencies, skip it and come back to it. This is a lot easier on your head. 
-      * If a student is missing a rate for an item, it counts as an inconsistency. 
-      * If a student ranks an item but there is no rate for it, all of the items (except for the items ranked higher than that one) are considered inconsistencies. For example, in the previous example, it the student ranked item 3 as fourth, but did not rate item three, there would be nine inconsistencies. 
-* If a student ranks a consideration which is not in the Dilema, all of the items (except for the items ranked higher than that one) are considered inconsistencies.
-* If a student ranks a consideration twice, both rank occurrences are considered inconsistencies. 
+      
+      -If a student is missing a rate for an item, it counts as an inconsistency. 
+      
+      -If a student ranks an item but there is no rate for it, all of the items (except for the items ranked higher than that one) are considered inconsistencies. For example, in the previous example, it the student ranked item 3 as fourth, but did not rate item three, there would be nine inconsistencies. 
+      
+      -If a student ranks a consideration which is not in the Dilema, all of the items (except for the items ranked higher than that one) are considered inconsistencies.
+      
+      -If a student ranks a consideration twice, both rank occurrences are considered inconsistencies. 
 
 </details>
 
