@@ -52,8 +52,8 @@ Where N is the number of items for that dilemma and n is the number of dilemmas.
 
 <details>
   <summary>Tips for manually calculating the rate-rank socre</summary>
-      * Give yourself a lot of time to find the rate-rank score when calculating manually. 
-      * Make an initial run through the dilemma where you only record the students who would have a 0 rate-rank score. As soon as you come across a student where you have 0 count of inconsistencies, skip it and come back to it. This is a lot easier on your head. 
+-Give yourself a lot of time to find the rate-rank score when calculating manually. 
+      -Make an initial run through the dilemma where you only record the students who would have a 0 rate-rank score. As soon as you come across a student where you have 0 count of inconsistencies, skip it and come back to it. This is a lot easier on your head. 
       * If a student is missing a rate for an item, it counts as an inconsistency. 
       * If a student ranks an item but there is no rate for it, all of the items (except for the items ranked higher than that one) are considered inconsistencies. For example, in the previous example, it the student ranked item 3 as fourth, but did not rate item three, there would be nine inconsistencies. 
 * If a student ranks a consideration which is not in the Dilema, all of the items (except for the items ranked higher than that one) are considered inconsistencies.
