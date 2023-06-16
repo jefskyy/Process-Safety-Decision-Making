@@ -17,24 +17,13 @@ Behavioral forecasting is when you know you are being tested, so you seek out to
 
 When these two phenomena take place in the chemical process industry, engineers can make series of poor decisions that lead to process incidents. These incidents often have harsh implications on plant workers, nearby communities and the environment, so there is a need for evaluation of such decisions.
 
-This site documents a tool dedicated to evaluating the moral reaosning of process safety decisions, the Engineering Process Safety Research Instrument
+This site documents a tool dedicated to evaluating the moral reaosning of process safety decisions, the Engineering Process Safety Research Instrument (EPSRI).
 
 # The Engineering Process Safety Research Instrument (EPSRI)
+ 
+The EPSRI can assess moral reasoning of respondents based on how they respond to to five hypothetical ethical dilemmas. Specifically, respondents must rate and rank a series of considerations towards a decision they make in the dilemma. The EPSRI has undergone instrument validation among senior undergraduate chemical engineering students from three US institutions. This means we have tested the EPSRI for its validity (that it reports moral reasoning) and reliability (that it reports this consistently). The exact process the EPSRI followed is documented in our publications [1, 2].
 
-
-Certainly! In Qualtrics, you can create a template survey that others can use without granting them access to your entire Qualtrics account. Here's a general overview of the process:
-
-1. Create your template survey: Start by creating the survey you want to use as a template. Design the survey structure, add questions, customize the appearance, and set up any logic or branching you want to include.
-
-2. Copy the template: Once your template survey is ready, you can create a copy of it to share with others. This copy will serve as the starting point for each person who wants to use the survey.
-
-3. Share the survey copy: Share the copied survey with others by exporting it in a format that can be imported into their Qualtrics accounts. Qualtrics supports various export formats, including QSF (Qualtrics Survey Format), which is the native file format.
-
-4. Import the survey copy: The individuals who want to use your template survey can import the exported QSF file into their own Qualtrics accounts. They can do this by logging into their Qualtrics account, navigating to the appropriate section (such as "My Surveys" or "Projects"), and using the import function to upload the QSF file.
-
-5. Customize the survey: Once the copied survey is imported into their accounts, users can modify and customize it to fit their specific needs. They can edit the survey questions, add or remove sections, adjust survey flow, and make any other changes required.
-
-By following these steps, you can create a template survey in Qualtrics and allow others to use it without granting them direct access to your Qualtrics account. Each person will have their own copy of the survey that they can customize and use independently.
+ The EPSRI has been prepared as a [Qualtrics survey](EPSRI Distributable) to be applied in classrooms or research studies.
 
 
 # Obtaining Scores from the EPSRI
