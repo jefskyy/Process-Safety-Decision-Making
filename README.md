@@ -8,13 +8,13 @@ Behavioral forecasting is when you know you are being tested, so you seek out to
 
 When these two phenomena take place in the chemical process industry, engineers can make series of poor decisions that lead to process incidents. These incidents often have harsh implications on plant workers, nearby communities and the environment, so there is a need for evaluation of such decisions.
 
-This site documents a tool dedicated to evaluating the moral reaosning of process safety decisions, the Engineering Process Safety Research Instrument (EPSRI).
+This site documents a tool dedicated to evaluating the ethical reaosning of process safety decisions, the Engineering Process Safety Research Instrument (EPSRI).
 
 # :clipboard: The Engineering Process Safety Research Instrument (EPSRI)
  
-The EPSRI can assess moral reasoning of respondents based on how they respond to to five hypothetical ethical dilemmas. Specifically, respondents must rate and rank a series of considerations towards a decision they make in the dilemma. The EPSRI has undergone instrument validation among senior undergraduate chemical engineering students from three US institutions. This means we have tested the EPSRI for its validity (that it reports moral reasoning) and reliability (that it reports this consistently). The exact process the EPSRI followed is documented in our publications [1, 2].
+The EPSRI can assess ethical reasoning of respondents based on how they respond to to five hypothetical ethical dilemmas. Specifically, respondents must rate and rank a series of considerations towards a decision they make in the dilemma. The EPSRI has undergone instrument validation among senior undergraduate chemical engineering students from three US institutions. This means we have tested the EPSRI for its validity (that it reports ethical reasoning) and reliability (that it reports this consistently). The exact process the EPSRI followed is documented in our publications [1, 2].
 
- The EPSRI has been prepared as a Qualtrics survey and Microsoft Word document([EPSRI Distributable](https://github.com/jefskyy/Process-Safety-Decision-Making/tree/main/EPSRI%20Distributable)) to be applied in classrooms or research studies.
+ The EPSRI has been prepared as a Qualtrics survey and Microsoft Word document ([EPSRI Distributable](https://github.com/jefskyy/Process-Safety-Decision-Making/tree/main/EPSRI%20Distributable)) to be applied in classrooms or research studies.
 
 # :bar_chart: Obtaining Scores from the EPSRI
 
@@ -74,6 +74,7 @@ Where N is the number of items for that dilemma and n is the number of dilemmas.
   <summary>Rate-rank Score (automated)</summary>
 
 Video instructions: https://youtu.be/VMCIeS56H8E
+
 [MATLAB Script]([url](https://github.com/jefskyy/Process-Safety-Decision-Making/blob/main/RateRankOrganizer.m))
 
 
@@ -105,6 +106,17 @@ An example calculation for the CDIT score is shown in the template and in our pu
 
 
 # :ledger: Applying the EPSRI in your classroom
+
+We encourage you to use the EPSRI to evaluate the ethical reasoning of your students. You can either assess your students at one point (cross-sectionally) or across time (longitudinally) to measure changes.
+
+![image](https://github.com/jefskyy/Process-Safety-Decision-Making/assets/44849178/f6316837-409a-44af-af3f-469cd268d375)
+
+With assessment from the EPSRI, you can tailor your teaching on process safety ethics to address the needs of your students. In addition, you can test out different approaches to teaching process safety and compare the approaches by their impact on ethical reasoning.
+
+We performed a retrospective analysis to compare “control” curriculum against curriculum with an intervention. We describe this research design in detail in this publication: Stransky, J., Bassett, L., Bodnar, C., Anastasio, D. D., Burkey, D. D., & Cooper, M. (2021). A retrospective analysis on the impacts of an immersive digital environment on chemical engineering students’ moral reasoning. Education for Chemical Engineers, 35, 22–28. https://doi.org/10.1016/j.ece.2020.12.003
+
+
+
 
 # :ledger: Applying the EPSRI in your research
 
