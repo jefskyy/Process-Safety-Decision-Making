@@ -66,7 +66,7 @@ Where N is the number of items for that dilemma and n is the number of dilemmas.
       
 -If a student ranks an item but there is no rate for it, all of the items (except for the items ranked higher than that one) are considered inconsistencies. For example, in the previous example, it the student ranked item 3 as fourth, but did not rate item three, there would be nine inconsistencies. 
       
--If a student ranks a consideration which is not in the Dilema, all of the items (except for the items ranked higher than that one) are considered inconsistencies.
+-If a student ranks a consideration which is not in the dilemma, all of the items (except for the items ranked higher than that one) are considered inconsistencies.
       
 -If a student ranks a consideration twice, both rank occurrences are considered inconsistencies. 
 
