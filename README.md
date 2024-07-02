@@ -23,6 +23,15 @@ There are four results we recommend pulling out of the EPSRI: P score, N2 Score,
 ## Data Filtering
 Data filtering consists of three filters: missing data, repeating data, and the rate-rank score. Repeating and missing data are easily obtained in the provided spreadsheet. However, the rate-rank score can be solved manually, and instructions on how to do so are provided below. Alternatively, and the preferred method, is to use the provided  MATLAB script. If you do not have access to MATLAB, other languages may be used, but have not been developed.
 
+
+<details>
+  <summary> Rate-rank Score (automated)</summary>
+
+We prepared a [MATLAB script](https://github.com/jefskyy/Process-Safety-Decision-Making/blob/main/RateRankOrganizer.m) with [video instructions](https://youtu.be/VMCIeS56H8E) on how to use it.
+
+</details>
+
+
 <details>
   <summary>Rate-rank Score (manual)</summary>
 
@@ -45,9 +54,6 @@ The rate-rank score for this student on this dilemma is 25. Complete this for al
 Where N is the number of items for that dilemma and n is the number of dilemmas. The cut-off score is one third of the highest possible rate rank score. 
 
 
-
-
-
 <details>
   <summary>Tips for manually calculating the rate-rank socre</summary>
 -Give yourself a lot of time to find the rate-rank score when calculating manually. 
@@ -64,22 +70,9 @@ Where N is the number of items for that dilemma and n is the number of dilemmas.
 
 </details>
 
-
-
-
-
-
 </details>
 
-<details>
-  <summary>Rate-rank Score (automated)</summary>
 
-Video instructions: https://youtu.be/VMCIeS56H8E
-
-[MATLAB Script]([url](https://github.com/jefskyy/Process-Safety-Decision-Making/blob/main/RateRankOrganizer.m))
-
-
-</details>
 
 ## P-score
 
@@ -99,8 +92,16 @@ In order to classify a student into one of the six types, the CDIT score and pre
 
 An example calculation for the CDIT score is shown in the template and in our publication [4]
 
+
+
+
+
+
 # :blue_book: Interpreting Scores from the EPSRI
 
+> .
+> .
+> .
 
 
 
@@ -121,8 +122,11 @@ We performed a retrospective analysis to compare “control” curriculum agains
 
 # :bookmark_tabs: References in this README
 > [1] M. H. Bazerman and A. Tenbrunsel, Blind Spots: Why We Fail to Do What’s Right and What to Do about It. Princeton: Princeton University Press, 2011.
+> 
 > [2] J. Stransky, L. Bassett, C. Bodnar, D. D. Anastasio, D. D. Burkey, and M. Cooper, “A retrospective analysis on the impacts of an immersive digital environment on chemical engineering students’ moral reasoning,” Educ. Chem. Eng., vol. 35, pp. 22–28, 2021, doi: 10.1016/j.ece.2020.12.003.
+> 
 > [3] J. Stransky, L. Bassett, D. D. Anastasio, M. Cooper, D. D. Burkey, and C. Bodnar, “Exploring student decision making trends in process safety dilemmas using the engineering process safety research instrument,” in ASEE Annual Conference and Exposition, Conference Proceedings, 2020, vol. 2020-June, doi: 10.18260/1-2--34645.
+> 
 > [4] B. Butler, C. Bodnar, M. Cooper, D. D. Burkey, and D. D. Anastasio, “Towards understanding the moral reasoning process of senior chemical engineering students in process safety contexts,” Educ. Chem. Eng., vol. 28, pp. 1–12, 2019, doi: 10.1016/j.ece.2019.03.004.
 
 
@@ -130,7 +134,8 @@ We performed a retrospective analysis to compare “control” curriculum agains
 # Connect with Us!
 [Our Research Team](https://github.com/jefskyy/Process-Safety-Decision-Making/blob/main/EPSRI%20Team.md)
 
-This site is maintained by Jeff Stransky, Assistant Professor @ Rochester Institute of Technology, Manufacturing and Mechanical Engineering Technology
+Site maintained by Jeff Stransky, Assistant Professor @ Rochester Institute of Technology, Manufacturing and Mechanical Engineering Technology
+
 Questions regarding the EPSRI or [related publications](https://github.com/jefskyy/Process-Safety-Decision-Making/blob/main/Relevant-Publications.md) should be directed to him or listed corresponding authors.
 
 
