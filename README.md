@@ -2,7 +2,7 @@
 
 The chemical process industry seeks to mitigate safety incidents through protective barriers: design, hazard analyses, etc. This project supplements these efforts by improving process safety decision making pedagogy.
 
-Humans are notorious for being poor predictors of their behaviors [CITE ⭐], including when we predict that we will make safe decisions. We are often poor predictors of our behaviors because of "behavioral forecasting" and "ethical fading". 
+Humans are notorious for being poor predictors of their behaviors [1], including when we predict that we will make safe decisions. We are often poor predictors of our behaviors because of "behavioral forecasting" and "ethical fading". 
 
 Behavioral forecasting is when you know you are being tested, so you seek out to make the "best" ethical decision possible. Ethical fading is when you are bombarded with stimuli and tasks that you lose track of the ethical importance of decisions that you're making.
 
@@ -12,7 +12,7 @@ This site documents a tool dedicated to evaluating the ethical reaosning of proc
 
 # :clipboard: The Engineering Process Safety Research Instrument (EPSRI)
  
-The EPSRI can assess ethical reasoning of respondents based on how they respond to to five hypothetical ethical dilemmas. Specifically, respondents must rate and rank a series of considerations towards a decision they make in the dilemma. The EPSRI has undergone instrument validation among senior undergraduate chemical engineering students from three US institutions. This means we have tested the EPSRI for its validity (that it reports ethical reasoning) and reliability (that it reports this consistently). The exact process the EPSRI followed is documented in our publications [1, 2].
+The EPSRI can assess ethical reasoning of respondents based on how they respond to to five hypothetical ethical dilemmas. Specifically, respondents must rate and rank a series of considerations towards a decision they make in the dilemma. The EPSRI has undergone instrument validation among senior undergraduate chemical engineering students from three US institutions. This means we have tested the EPSRI for its validity (that it reports ethical reasoning) and reliability (that it reports this consistently). The exact process the EPSRI followed is documented in our publications [2, 3].
 
  The EPSRI has been prepared as a Qualtrics survey and Microsoft Word document ([EPSRI Distributable](https://github.com/jefskyy/Process-Safety-Decision-Making/tree/main/EPSRI%20Distributable)) to be applied in classrooms or research studies.
 
@@ -96,7 +96,7 @@ To find the N2 score on a dilemma level, follow the same procedure outlined abov
 
 In order to classify a student into one of the six types, the CDIT score and predominant reasoning must be found. Predominant reasoning is calculated the same way as the p-score, but is done for conventional and pre-conventional reasoning as well.
 
-An example calculation for the CDIT score is shown in the template and in our publication [CITE ⭐:]
+An example calculation for the CDIT score is shown in the template and in our publication [4]
 
 # :blue_book: Interpreting Scores from the EPSRI
 
@@ -105,7 +105,7 @@ An example calculation for the CDIT score is shown in the template and in our pu
 
 
 
-# :ledger: Applying the EPSRI in your classroom
+# :ledger: Applying the EPSRI in your Classroom and Research
 
 We encourage you to use the EPSRI to evaluate the ethical reasoning of your students. You can either assess your students at one point (cross-sectionally) or across time (longitudinally) to measure changes.
 
@@ -113,27 +113,18 @@ We encourage you to use the EPSRI to evaluate the ethical reasoning of your stud
 
 With assessment from the EPSRI, you can tailor your teaching on process safety ethics to address the needs of your students. In addition, you can test out different approaches to teaching process safety and compare the approaches by their impact on ethical reasoning.
 
-We performed a retrospective analysis to compare “control” curriculum against curriculum with an intervention. We describe this research design in detail in this publication: Stransky, J., Bassett, L., Bodnar, C., Anastasio, D. D., Burkey, D. D., & Cooper, M. (2021). A retrospective analysis on the impacts of an immersive digital environment on chemical engineering students’ moral reasoning. Education for Chemical Engineers, 35, 22–28. https://doi.org/10.1016/j.ece.2020.12.003
+We performed a retrospective analysis to compare “control” curriculum against curriculum with an intervention. We describe this research design in detail in this publication [2]
 
 
+# :bookmark_tabs: References in this README
+> [1] M. H. Bazerman and A. Tenbrunsel, Blind Spots: Why We Fail to Do What’s Right and What to Do about It. Princeton: Princeton University Press, 2011.
+> [2] J. Stransky, L. Bassett, C. Bodnar, D. D. Anastasio, D. D. Burkey, and M. Cooper, “A retrospective analysis on the impacts of an immersive digital environment on chemical engineering students’ moral reasoning,” Educ. Chem. Eng., vol. 35, pp. 22–28, 2021, doi: 10.1016/j.ece.2020.12.003.
+> [3] J. Stransky, L. Bassett, D. D. Anastasio, M. Cooper, D. D. Burkey, and C. Bodnar, “Exploring student decision making trends in process safety dilemmas using the engineering process safety research instrument,” in ASEE Annual Conference and Exposition, Conference Proceedings, 2020, vol. 2020-June, doi: 10.18260/1-2--34645.
+> [4] B. Butler, C. Bodnar, M. Cooper, D. D. Burkey, and D. D. Anastasio, “Towards understanding the moral reasoning process of senior chemical engineering students in process safety contexts,” Educ. Chem. Eng., vol. 28, pp. 1–12, 2019, doi: 10.1016/j.ece.2019.03.004.
 
+# Connect with Us!
+([Our Research Team] (google.com))
 
-# :ledger: Applying the EPSRI in your research
-
-
-# :bookmark_tabs: Major Publications
-      [This list needs to be reviewed to remove CUP specific publications]
-      [1] J. Stransky, L. Bassett, C. Bodnar, D. D. Anastasio, D. D. Burkey, and M. Cooper, “A retrospective analysis on the impacts of an immersive digital environment on chemical engineering students’ moral reasoning,” Educ. Chem. Eng., vol. 35, pp. 22–28, 2021, doi: 10.1016/j.ece.2020.12.003.
-      [2] J. Stransky, L. Bassett, D. D. Anastasio, M. Cooper, D. D. Burkey, and C. Bodnar, “Exploring student decision making trends in process safety dilemmas using the engineering process safety research instrument,” in ASEE Annual Conference and Exposition, Conference Proceedings, 2020, vol. 2020-June, doi: 10.18260/1-2--34645.
-      [4] J. Stransky, C. Bodnar, M. Cooper, D. D. Anastasio, and D. D. Burkey, “Authentic process safety decisions in an engineering ethics context: expression of student moral development within surveys and immersive environments,” Australas. J. Eng. Educ., 2020, doi: 10.1080/22054952.2020.1809881.
-      [5] J. Stransky, C. Bodnar, L. Bassett, M. Cooper, D. Anastasio, and D. Burkey, “Engineering process safety research instrument: Assessing students’ moral reasoning in process safety contexts,” Educ. Chem. Eng., vol. 42, no. November 2022, pp. 44–53, 2023, doi: 10.1016/j.ece.2022.11.004.
-      [6] J. Stransky, L. Bassett, C. Bodnar, D. D. Anastasio, D. D. Burkey, and M. Cooper, “Understanding Student Motivation to Engage in the Contents Under Pressure Digital Game,” in ICL2021 – 24th International Conference on Interactive Collaborative Learning, 2021, no. September, pp. 1716–1727.
-      [7] J. Stransky et al., “Impact of Immersive Training on Senior Chemical Engineering Students’ Prioritization of Process Safety Decision Criteria,” in 2021 ASEE Virtual Annual Conference Content Access, 2021.
-
-
-# :bookmark_tabs: External References
-
-# Connect with us
 
 This site is maintained by Dr Jeffrey Stransky. Questions regarding the EPSRI or related publications should be directed to him.
 
