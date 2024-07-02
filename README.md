@@ -47,6 +47,7 @@ Where N is the number of items for that dilemma and n is the number of dilemmas.
 
 
 
+
 <details>
   <summary>Tips for manually calculating the rate-rank socre</summary>
 -Give yourself a lot of time to find the rate-rank score when calculating manually. 
@@ -116,16 +117,20 @@ With assessment from the EPSRI, you can tailor your teaching on process safety e
 We performed a retrospective analysis to compare “control” curriculum against curriculum with an intervention. We describe this research design in detail in this publication [2]
 
 
+
+
 # :bookmark_tabs: References in this README
 > [1] M. H. Bazerman and A. Tenbrunsel, Blind Spots: Why We Fail to Do What’s Right and What to Do about It. Princeton: Princeton University Press, 2011.
 > [2] J. Stransky, L. Bassett, C. Bodnar, D. D. Anastasio, D. D. Burkey, and M. Cooper, “A retrospective analysis on the impacts of an immersive digital environment on chemical engineering students’ moral reasoning,” Educ. Chem. Eng., vol. 35, pp. 22–28, 2021, doi: 10.1016/j.ece.2020.12.003.
 > [3] J. Stransky, L. Bassett, D. D. Anastasio, M. Cooper, D. D. Burkey, and C. Bodnar, “Exploring student decision making trends in process safety dilemmas using the engineering process safety research instrument,” in ASEE Annual Conference and Exposition, Conference Proceedings, 2020, vol. 2020-June, doi: 10.18260/1-2--34645.
 > [4] B. Butler, C. Bodnar, M. Cooper, D. D. Burkey, and D. D. Anastasio, “Towards understanding the moral reasoning process of senior chemical engineering students in process safety contexts,” Educ. Chem. Eng., vol. 28, pp. 1–12, 2019, doi: 10.1016/j.ece.2019.03.004.
 
+
+
 # Connect with Us!
-([Our Research Team] (google.com))
+[Our Research Team](https://github.com/jefskyy/Process-Safety-Decision-Making/blob/main/EPSRI%20Team.md)
 
-
-This site is maintained by Dr Jeffrey Stransky. Questions regarding the EPSRI or related publications should be directed to him.
+This site is maintained by Jeff Stransky, Assistant Professor @ Rochester Institute of Technology, Manufacturing and Mechanical Engineering Technology
+Questions regarding the EPSRI or [related publications](https://github.com/jefskyy/Process-Safety-Decision-Making/blob/main/Relevant-Publications.md) should be directed to him or listed corresponding authors.
 
 
