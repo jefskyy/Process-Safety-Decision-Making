@@ -12,7 +12,7 @@ This site documents a tool dedicated to evaluating the ethical reaosning of proc
 
 # :clipboard: The Engineering Process Safety Research Instrument (EPSRI)
  
-The EPSRI can assess ethical reasoning of respondents based on how they respond to to five hypothetical ethical dilemmas. Specifically, respondents must rate and rank a series of considerations towards a decision they make in the dilemma. The EPSRI has undergone instrument validation among senior undergraduate chemical engineering students from three US institutions. This means we have tested the EPSRI for its validity (that it reports ethical reasoning) and reliability (that it reports this consistently). The exact process the EPSRI followed is documented in our publications [2, 3].
+The EPSRI can assess ethical reasoning of respondents based on how they respond to five hypothetical ethical dilemmas. Specifically, respondents must rate and rank a series of considerations towards a decision they make in the dilemma. The EPSRI has undergone instrument validation among senior undergraduate chemical engineering students from three US institutions. This means we have tested the EPSRI for its validity (that it reports ethical reasoning) and reliability (that it reports this consistently). The exact process the EPSRI followed is documented in our publications [2, 3].
 
  The EPSRI has been prepared as a Qualtrics survey and Microsoft Word document ([EPSRI Distributable](https://github.com/jefskyy/Process-Safety-Decision-Making/tree/main/EPSRI%20Distributable)) to be applied in classrooms or research studies.
 
